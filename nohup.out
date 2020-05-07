@@ -1,0 +1,4 @@
+
+(putty:23215): Gtk-CRITICAL **: 00:29:14.761: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(putty:8092): Gtk-CRITICAL **: 15:05:53.104: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
